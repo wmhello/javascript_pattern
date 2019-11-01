@@ -4,4 +4,4 @@
 ## 内容说明  
 代码|用途|说明
 -|-|-
-throttle.js | 节流函数|利用setTimeout函数延迟执行
+ [throttle.js](throttle.js)| 节流函数|利用setTimeout函数延迟执行
